@@ -10,7 +10,7 @@
 </br>
 
 
-- X o que te trouxe para a programação
+- X I always liked computers and i still didn't know what i was going to do with my life.That's when i discovered programming and started studing and now I know that i want to be a Full Stack developer.
 - Y onde mora
 - Z estado atual de carreira
 - Xx onde mora 
