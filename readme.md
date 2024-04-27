@@ -3,7 +3,7 @@
 
 <img href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=9F2129&vCenter=true&width=435&lines=Olá+sou+Daniel!;Estudante+Full+stack!">
  
- <p>- <i> A aqui teremos uma breve apresentação sua  </i> </p>
+
 
 
 ## : Sobre mim
