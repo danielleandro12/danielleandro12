@@ -10,9 +10,9 @@
 </br>
 
 
-- X I always liked computers and i still didn't know what i was going to do with my life.That's when i discovered programming and started studing and now I know that i want to be a Full Stack developer.
-- Y I am brasilian and I live in Brasil.
-- Z I am currently a full stack programming student and study Html,Css,Javascript and Python.
+-  I always liked computers and i still didn't know what i was going to do with my life.That's when i discovered programming and started studing and now I know that i want to be a Full Stack developer.
+- I am brasilian and I live in Brasil.
+-  I am currently a full stack programming student and study Html,Css,Javascript and Python.
 - objetivos
 
 
