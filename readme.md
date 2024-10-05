@@ -13,7 +13,6 @@
 - 🧑‍💻 I've always had a fascination with computers, but I was uncertain about my future path. Then, I stumbled upon programming, and as I delved into studying it, I found my passion. Now, I'm determined to pursue a career as a Full Stack developer.
 - 🌎 I am brasilian and I live in Brasil.
 - 🎯 I am currently a full stack programming student and study Html,Css,Javascript and Python.
-- objetivos
 
 
 <hr>
